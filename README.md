@@ -29,14 +29,14 @@ This project is a **Speech-to-Sign Language Translator** built using Streamlit, 
 pip install -r requirements.txt
 ```
 
-### Run the Application:
+### Run the Application
 
 ### Step 1: Navigate to the Project Directory
 
 ```bash
 cd path\to\Indian_Sign_Language_Translator
 ```
-### Replace path\to with your actual file path, for example:
+### Replace path\to with your actual file path, for example
 
 ```bash
 cd F:\Projects\Indian_Sign_Language_Translator
