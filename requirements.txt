@@ -1,3 +1,5 @@
+#This file contains the required Python libraries for running the project.
+
 streamlit
 speechrecognition
 pyaudio
