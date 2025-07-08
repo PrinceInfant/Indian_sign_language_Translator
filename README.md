@@ -53,12 +53,9 @@ After successful execution, Streamlit will display a message like this in your t
 
 ```bash
 You can now view your Streamlit app in your browser.
-```
-
 Local URL: http://127.0.0.1:8501
 Network URL: http://192.168.x.x:8501
-
+```
 
 Click the URL or copy and paste it into your browser:
-
 🔗 http://127.0.0.1:8501
